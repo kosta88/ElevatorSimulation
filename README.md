@@ -1,7 +1,7 @@
 # Java-Elevator-Simulation
 
-###### 1. Choose how many requests
-###### 2. Choose which algorithm you would prefer
+###### 1. Choose how many requests  ( line 27 )
+###### 2. Choose which algorithm you would prefer  ( line 41 )
 
 ![image](https://user-images.githubusercontent.com/39994278/82335066-78bc5d00-99f1-11ea-9225-add7b0489605.png)
 
