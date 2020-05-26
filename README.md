@@ -1,4 +1,5 @@
 # Java-Elevator-Simulation
+###### *in order to run, copy the files in the "essentials" folder as well
 
 ###### 1. Choose how many requests  ( line 27 )
 ###### 2. Choose which algorithm you would prefer  ( line 41 )
